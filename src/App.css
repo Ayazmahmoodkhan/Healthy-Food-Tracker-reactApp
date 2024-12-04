@@ -1,0 +1,16 @@
+
+.heading{
+  color: red !important;
+  text-align: center;
+}
+.userText{
+  text-align: left;
+  font-size: 20px;
+  background-color: khaki !important;
+  padding: 10px;
+  border: 1px solid #ccc;
+  font-weight: 500;
+  font-style: italic;
+  color: orangered;
+  border-radius: 5px;
+}

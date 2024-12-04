@@ -1,0 +1,19 @@
+.Item {
+  padding: 10px;
+  border: 1px solid #ccc !important;
+  border-radius: 5px;
+  margin-bottom: 8px;
+  text-align: left !important;
+}
+
+.spanItem {
+  font-weight: 500;
+  font-style: italic;
+  color: orangered;
+}
+button{
+  float: right;
+}
+.buttonRemove{
+  margin-right: 10px !important;
+}
